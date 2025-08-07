@@ -2,7 +2,7 @@
 
 > A domain rental marketplace where domain owners can list their domains for rent and businesses can book them for specific time periods.
 
-![Homepage](homepage.png)
+![Homepage](images/homepage.png)
 
 ## Live Application: [rentmydomain.net](https://rentmydomain.net)
 
@@ -125,27 +125,27 @@ This application demonstrates comprehensive full-stack development capabilities 
 ### Application Screenshots
 
 #### Domain Marketplace & Process
-![Domain Listing](domain-listing.png)  
+![Domain Listing](images/domain-listing.png)  
 *Domain marketplace showing lkwjd.com with 300k+ monthly traffic*
 
-![Process Overview](how-it-works.png)
+![Process Overview](images/how-it-works.png)
 *Step-by-step process visualization for users*
 
 #### Booking & Payment System
-![Booking Calendar](booking-calendar.gif)
+![Booking Calendar](images/booking-calendar.gif)
 *Interactive calendar system for selecting rental dates (animated)*
 
-![Payment Selection](payment-methods.png)
+![Payment Selection](images/payment-methods.png)
 *Dual payment system: crypto and credit card options with invoice generation*
 
 #### User Dashboard & Domain Management
-![User Dashboard - Rentals](user-dashboard-rentals.png)
+![User Dashboard - Rentals](images/user-dashboard-rentals.png)
 *User dashboard showing rental bookings and status tracking*
 
-![User Dashboard - Listings](user-dashboard-listings.png)
+![User Dashboard - Listings](images/user-dashboard-listings.png)
 *Two-sided marketplace: users can both rent and list domains*
 
-![Domain Listing Form](domain-listing-form.png)
+![Domain Listing Form](images/domain-listing-form.png)
 *Multi-step form for domain owners to list their domains*
 
 ## About This Project
@@ -178,7 +178,7 @@ This project involved integrating multiple services and handling real-world comp
 
 **Interested in discussing the technical implementation?**
 
-- **Email**: [hi@kanso.xyz](mailto:hi@kanso.xyz)
+- **Email**: [contact@kanso.xyz](mailto:contact@kanso.xyz)
 - **Website**: [kanso.xyz](https://kanso.xyz)
-
+  
 ---
